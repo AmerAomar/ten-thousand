@@ -1,6 +1,6 @@
-# LAB - Class 06
+# LAB - Class 06,07,08
 
-## Project: Ten Thousand - version 1 / version 2
+## Project: Ten Thousand - version 1 / version 2 / version 3
 
 ## Author: Emam Al Mounqer and Amer Al-Omari
 
